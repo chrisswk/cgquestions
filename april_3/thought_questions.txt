@@ -1,0 +1,5 @@
+1.  Compare and contrast the NYT and WSJ's websites in terms of design, legibility and ease of use.
+
+2.  What do you think of the NYT's HTML?
+
+3.  When you load the NYT website without CSS, is it still as appealing?
